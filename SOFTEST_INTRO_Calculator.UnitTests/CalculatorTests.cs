@@ -31,7 +31,7 @@ public class CalculatorTests
         // Act
         double result = _calculator.Add(10, 20);
         // Assert
-        Assert.That(result, Is.EqualTo(30));
+        Assert.That(result, Is.EqualTo(90));
     }
 
     // --- Parameterised test with [TestCase] ----------------------------------
