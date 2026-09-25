@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOFTEST_INTRO_Calculator.Un
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOFTEST_INTRO_Calculator.AcceptanceTests", "SOFTEST_INTRO_Calculator.AcceptanceTests\SOFTEST_INTRO_Calculator.AcceptanceTests.csproj", "{0FF50944-3BA5-4CDB-A77B-583B6856F5A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOFTEST_INTRO_Calculator.IntegrationTests", "SOFTEST_INTRO_Calculator.IntegrationTests\SOFTEST_INTRO_Calculator.IntegrationTests.csproj", "{F1B19232-9A20-4647-BC4A-8E6936F7AAB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{0FF50944-3BA5-4CDB-A77B-583B6856F5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FF50944-3BA5-4CDB-A77B-583B6856F5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FF50944-3BA5-4CDB-A77B-583B6856F5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B19232-9A20-4647-BC4A-8E6936F7AAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B19232-9A20-4647-BC4A-8E6936F7AAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B19232-9A20-4647-BC4A-8E6936F7AAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B19232-9A20-4647-BC4A-8E6936F7AAB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
